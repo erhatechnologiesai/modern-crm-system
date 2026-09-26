@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  crm-app:
+    build: .
+    container_name: apex-crm-app
+    ports:
+      - "8001:8000"
+    environment:
+      - APP_NAME=ApexCRM
+      - APP_ENV=production
+      - SECRET_KEY=crm-production-secret-key-change-me-44556677
+      - PORT=8000
+    volumes:
+      - crm_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  crm_data:
