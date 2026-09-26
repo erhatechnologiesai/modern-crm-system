@@ -8,6 +8,22 @@
 
 **ApexCRM** is a production-grade, full-stack Customer Relationship Management (CRM) system engineered to streamline lead capture, company account governance, multi-stage sales deal pipelines, collaborative team tasks, and audit trail observability for high-growth B2B organizations.
 
+```
++-----------------------------------------------------------------------------------------+
+|  APEXCRM ENTERPRISE SALES PIPELINE & DEALS COCKPIT                                      |
++-----------------------------------------------------------------------------------------+
+|  [ Deals In Flight: $840,000 ]   [ Win Rate: 68.4% ]   [ Active Leads: 142 ]            |
++-----------------------------------------------------------------------------------------+
+|  [>] Lead Inbound (14)      |  [>] Qualified Discovery (8) |  [>] Proposal Delivered (5)|
+|  - Acme Corp ($25k)         |  - Global Logistics ($60k)   |  - FinTech Core ($140k)    |
+|  - NextGen Media ($15k)     |  - Nexus BioTech ($45k)      |  - CloudMatrix ERP ($95k)  |
++-----------------------------+------------------------------+----------------------------+
+|  [>] Contract Review (3)    |  [>] Closed Won (18)         |  [!] Action Required       |
+|  - DataFlow Systems ($85k)  |  - Orion Health (+$120k)     |  - Follow-up with CFO      |
+|  - Vertex Labs ($50k)       |  - Horizon Dynamics (+$75k)  |  - Send NDA & Security Doc |
++-----------------------------------------------------------------------------------------+
+```
+
 ---
 
 ## 📌 Table of Contents
